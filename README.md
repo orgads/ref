@@ -1,8 +1,7 @@
 ref
 ===
 ### Turn Buffer instances into "pointers"
-[![Build Status](https://secure.travis-ci.org/TooTallNate/ref.svg)](https://travis-ci.org/TooTallNate/ref)
-[![Build Status](https://ci.appveyor.com/api/projects/status/n8mswogp2im4uot8?svg=true)](https://ci.appveyor.com/project/TooTallNate/ref)
+[![Build & Test](https://github.com/orgads/ref/actions/workflows/build.yml/badge.svg)](https://github.com/orgads/ref/actions/workflows/build.yml)
 
 
 This module is inspired by the old `Pointer` class from node-ffi, but with the
