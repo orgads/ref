@@ -6,7 +6,7 @@
 var fs = require('fs')
 var dox = require('dox')
 var jade = require('jade')
-var marked = require('marked')
+const { marked } = require('marked')
 var hljs = require('highlight.js')
 var assert = require('assert')
 
